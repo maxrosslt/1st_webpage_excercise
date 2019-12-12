@@ -1,0 +1,38 @@
+body {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    color: dimgray;
+    background-color: ghostwhite;
+}
+
+h1 {
+   font-size: 2em;
+   text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 60px;
+}
+
+ul {
+    padding-left: 140px;
+}
+
+#tutorial {
+    text-decoration: underline;
+}
+
+p {
+    padding-left: 120px;
+}
+
+a {
+    text-decoration: none;
+}
+
+table {
+    text-align: center;
+}
+
